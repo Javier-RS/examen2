@@ -1,0 +1,5 @@
+crear repositorio en remoto.
+publicar el local
+generar un cambio "es el primer local al remoto"
+desde el remoto (github.com) hacer un cambio "cambio desde hitgub"
+bajar con pull al local y generar un tag.
